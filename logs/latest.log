@@ -1,4 +1,4 @@
-[17Nov2025 14:02:44.942] [main/INFO] [Arclight/]: 
+[17Nov2025 14:09:14.720] [main/INFO] [Arclight/]: 
 
        ___           ___     __   /\
       /   | ________/ (_)__ / /  / /
@@ -10,71 +10,220 @@
     运行版本 顿顽 / arclight-1.20.1-1.0.6-4e94eb76
     构建日期 2025-01-21 16:18:32
 
-[17Nov2025 14:02:44.986] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, arclightserver, --fml.forgeVersion, 47.3.22, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --nogui]
-[17Nov2025 14:02:44.988] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.8 by Ubuntu; OS Linux arch amd64 version 6.8.0-87-generic
-[17Nov2025 14:02:45.249] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is arclightserver
-[17Nov2025 14:02:45.303] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/home/nphne-oklvsvxa/mserver/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2399!/ Service=ModLauncher Env=SERVER
-[17Nov2025 14:02:45.627] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/nphne-oklvsvxa/mserver/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.22/fmlcore-1.20.1-47.3.22.jar is missing mods.toml file
-[17Nov2025 14:02:45.628] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/nphne-oklvsvxa/mserver/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.22/javafmllanguage-1.20.1-47.3.22.jar is missing mods.toml file
-[17Nov2025 14:02:45.629] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/nphne-oklvsvxa/mserver/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.22/lowcodelanguage-1.20.1-47.3.22.jar is missing mods.toml file
-[17Nov2025 14:02:45.630] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/nphne-oklvsvxa/mserver/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.22/mclanguage-1.20.1-47.3.22.jar is missing mods.toml file
-[17Nov2025 14:02:45.883] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
-[17Nov2025 14:02:47.778] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[17Nov2025 14:02:47.851] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [io.izzel.arclight.common.mod.ArclightConnector]
-[17Nov2025 14:02:47.894] [main/INFO] [Arclight/]: 核心 Mixin 配置已加载
-[17Nov2025 14:02:47.898] [main/INFO] [Arclight/]: 服务端优化 Mixin 配置已加载
-[17Nov2025 14:02:47.907] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'arclightserver' with arguments [--nogui]
-[17Nov2025 14:02:51.211] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[17Nov2025 14:03:00.507] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.8 initializing! Commit hash: 1a1a9a2819b4f89f78caec41b55ed8cb222fa24b
-[17Nov2025 14:03:00.537] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.22, for MC 1.20.1 with MCP 20230612.114412
-[17Nov2025 14:03:00.537] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.22 Initialized
-[17Nov2025 14:03:00.562] [modloading-worker-0/INFO] [Arclight/]: Arclight Mod 已加载
-[17Nov2025 14:03:00.625] [modloading-worker-0/INFO] [Arclight/]: Arclight 事件系统已注册
-[17Nov2025 14:03:03.870] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /home/nphne-oklvsvxa/mserver/config/create-common.toml is not correct. Correcting
-[17Nov2025 14:03:03.871] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17Nov2025 14:03:03.871] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldgen.disableWorldGen was corrected from null to its default, false. 
-[17Nov2025 14:03:04.169] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_veinminer] Starting version check at https://api.modrinth.com/updates/OhduvhIc/forge_updates.json
-[17Nov2025 14:03:05.249] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_veinminer] Found status: OUTDATED Current: 1.1.0 Target: 1.1.0+mod
-[17Nov2025 14:03:05.250] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[17Nov2025 14:03:05.522] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.22 Target: 47.4.0
-[17Nov2025 14:03:06.866] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17Nov2025 14:03:08.390] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/nphne-oklvsvxa/mserver/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23169!/assets/.mcassetsroot' uses unexpected schema
-[17Nov2025 14:03:08.390] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/nphne-oklvsvxa/mserver/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23169!/data/.mcassetsroot' uses unexpected schema
-[17Nov2025 14:03:08.451] [main/INFO] [com.simibubi.create.Create/]: Created 157 recipes which will be injected into the game
-[17Nov2025 14:03:08.461] [main/INFO] [com.simibubi.create.Create/]: Created 0 tags which will be injected into the game
-[17Nov2025 14:03:08.557] [main/INFO] [net.minecraft.server.MinecraftServer/]: Found new data pack create:dynamic_data, loading it automatically
-[17Nov2025 14:03:11.014] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 24 recipes
-[17Nov2025 14:03:11.176] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2389 advancements
-[17Nov2025 14:03:12.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[17Nov2025 14:03:12.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[17Nov2025 14:03:12.381] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[17Nov2025 14:03:12.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[17Nov2025 14:03:12.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[17Nov2025 14:03:12.588] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[17Nov2025 14:03:12.696] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17Nov2025 14:03:12.696] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[17Nov2025 14:03:12.696] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17Nov2025 14:03:12.696] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[17Nov2025 14:03:13.053] [Server thread/INFO] [Minecraft/]: This server is running Arclight version arclight-1.20.1-1.0.6-4e94eb76 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT)
-[17Nov2025 14:03:14.018] [Server thread/INFO] [Arclight/]: 正在向 Bukkit 注册 ...
-[17Nov2025 14:03:14.164] [Server thread/INFO] [Arclight/]: 注册了 752 个材料，其中 643 个方块 109 个物品
-[17Nov2025 14:03:14.166] [Server thread/INFO] [Arclight/]: 注册了 1 个新的药水效果
-[17Nov2025 14:03:14.174] [Server thread/INFO] [Arclight/]: 注册了 41 个新的附魔
-[17Nov2025 14:03:14.349] [Server thread/INFO] [Arclight/]: 注册了 9 个新的生物类型
-[17Nov2025 14:03:14.349] [Server thread/INFO] [Arclight/]: 注册了 0 个新的村民职业
-[17Nov2025 14:03:14.350] [Server thread/INFO] [Arclight/]: 注册了 0 个新的生物群系
-[17Nov2025 14:03:14.380] [Server thread/INFO] [STDOUT/]: Server Ping Player Sample Count: 12
-[17Nov2025 14:03:14.385] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
-[17Nov2025 14:03:14.386] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
-[17Nov2025 14:03:14.562] [Server thread/INFO] [Arclight/]: 正在加载混淆数据 ...
-[17Nov2025 14:03:15.233] [Server thread/INFO] [Arclight/]: 正在加载 Plugin Patcher ...
-[17Nov2025 14:03:15.436] [Server thread/INFO] [WorldEdit/]: Loading WorldEdit v7.3.1+6763-2e55f4f
-[17Nov2025 14:03:16.110] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@61ebd039]
-[17Nov2025 14:03:16.116] [Server thread/INFO] [Essentials/]: Loading Essentials v2.20.1
-[17Nov2025 14:03:16.120] [Server thread/INFO] [WorldEdit/]: Enabling WorldEdit v7.3.1+6763-2e55f4f
-[17Nov2025 14:03:16.148] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[17Nov2025 14:03:16.287] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: Using the Bukkit Permissions API.
-[17Nov2025 14:03:16.700] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: 
+[17Nov2025 14:09:14.767] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, arclightserver, --fml.forgeVersion, 47.3.22, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --nogui]
+[17Nov2025 14:09:14.769] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.8 by Ubuntu; OS Linux arch amd64 version 6.8.0-87-generic
+[17Nov2025 14:09:15.071] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is arclightserver
+[17Nov2025 14:09:15.116] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/home/nphne-oklvsvxa/mserver/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2399!/ Service=ModLauncher Env=SERVER
+[17Nov2025 14:09:15.380] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/nphne-oklvsvxa/mserver/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.22/fmlcore-1.20.1-47.3.22.jar is missing mods.toml file
+[17Nov2025 14:09:15.381] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/nphne-oklvsvxa/mserver/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.22/javafmllanguage-1.20.1-47.3.22.jar is missing mods.toml file
+[17Nov2025 14:09:15.382] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/nphne-oklvsvxa/mserver/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.22/lowcodelanguage-1.20.1-47.3.22.jar is missing mods.toml file
+[17Nov2025 14:09:15.383] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/nphne-oklvsvxa/mserver/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.22/mclanguage-1.20.1-47.3.22.jar is missing mods.toml file
+[17Nov2025 14:09:15.593] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[17Nov2025 14:09:17.580] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[17Nov2025 14:09:17.656] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [io.izzel.arclight.common.mod.ArclightConnector]
+[17Nov2025 14:09:17.700] [main/INFO] [Arclight/]: 核心 Mixin 配置已加载
+[17Nov2025 14:09:17.704] [main/INFO] [Arclight/]: 服务端优化 Mixin 配置已加载
+[17Nov2025 14:09:17.713] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'arclightserver' with arguments [--nogui]
+[17Nov2025 14:09:21.576] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[17Nov2025 14:09:30.659] [modloading-worker-0/INFO] [Arclight/]: Arclight Mod 已加载
+[17Nov2025 14:09:30.745] [modloading-worker-0/INFO] [Arclight/]: Arclight 事件系统已注册
+[17Nov2025 14:09:30.786] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.22, for MC 1.20.1 with MCP 20230612.114412
+[17Nov2025 14:09:30.786] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.22 Initialized
+[17Nov2025 14:09:30.975] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.8 initializing! Commit hash: 1a1a9a2819b4f89f78caec41b55ed8cb222fa24b
+[17Nov2025 14:09:36.078] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.4.16 initializing...
+[17Nov2025 14:09:36.081] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Tools' module.
+[17Nov2025 14:09:36.096] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Generators' module.
+[17Nov2025 14:09:36.243] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[17Nov2025 14:09:36.244] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
+[17Nov2025 14:09:36.375] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_veinminer] Starting version check at https://api.modrinth.com/updates/OhduvhIc/forge_updates.json
+[17Nov2025 14:09:37.214] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_veinminer] Found status: OUTDATED Current: 1.1.0 Target: 1.1.0+mod
+[17Nov2025 14:09:37.214] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[17Nov2025 14:09:37.494] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.22 Target: 47.4.0
+[17Nov2025 14:09:39.231] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17Nov2025 14:09:39.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mekanismgenerators:heat_generator Expected: 1202 Got: 1845
+[17Nov2025 14:09:39.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mekanismgenerators:solar_generator Expected: 1203 Got: 1846
+[17Nov2025 14:09:39.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mekanismgenerators:gas_burning_generator Expected: 1204 Got: 1847
+[17Nov2025 14:09:39.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mekanismgenerators:bio_generator Expected: 1205 Got: 1848
+[17Nov2025 14:09:39.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mekanismgenerators:advanced_solar_generator Expected: 1206 Got: 1849
+[17Nov2025 14:09:39.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mekanismgenerators:wind_generator Expected: 1207 Got: 1850
+[17Nov2025 14:09:39.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mekanismgenerators:turbine_rotor Expected: 1208 Got: 1851
+[17Nov2025 14:09:39.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mekanismgenerators:rotational_complex Expected: 1209 Got: 1852
+[17Nov2025 14:09:39.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mekanismgenerators:electromagnetic_coil Expected: 1210 Got: 1853
+[17Nov2025 14:09:39.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mekanismgenerators:turbine_casing Expected: 1211 Got: 1854
+[17Nov2025 14:09:39.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mekanismgenerators:turbine_valve Expected: 1212 Got: 1855
+[17Nov2025 14:09:39.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mekanismgenerators:turbine_vent Expected: 1213 Got: 1856
+[17Nov2025 14:09:39.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mekanismgenerators:saturating_condenser Expected: 1214 Got: 1857
+[17Nov2025 14:09:39.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mekanismgenerators:reactor_glass Expected: 1215 Got: 1858
+[17Nov2025 14:09:39.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mekanismgenerators:fission_reactor_casing Expected: 1216 Got: 1859
+[17Nov2025 14:09:39.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mekanismgenerators:fission_reactor_port Expected: 1217 Got: 1860
+[17Nov2025 14:09:39.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mekanismgenerators:fission_reactor_logic_adapter Expected: 1218 Got: 1861
+[17Nov2025 14:09:39.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mekanismgenerators:fission_fuel_assembly Expected: 1219 Got: 1862
+[17Nov2025 14:09:39.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mekanismgenerators:control_rod_assembly Expected: 1220 Got: 1863
+[17Nov2025 14:09:39.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mekanismgenerators:fusion_reactor_controller Expected: 1221 Got: 1864
+[17Nov2025 14:09:39.580] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mekanismgenerators:fusion_reactor_frame Expected: 1222 Got: 1865
+[17Nov2025 14:09:39.581] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mekanismgenerators:fusion_reactor_port Expected: 1223 Got: 1866
+[17Nov2025 14:09:39.581] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mekanismgenerators:fusion_reactor_logic_adapter Expected: 1224 Got: 1867
+[17Nov2025 14:09:39.581] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mekanismgenerators:laser_focus_matrix Expected: 1225 Got: 1868
+[17Nov2025 14:09:39.581] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mekanismgenerators:bioethanol Expected: 1226 Got: 1869
+[17Nov2025 14:09:39.581] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mekanismgenerators:deuterium Expected: 1227 Got: 1870
+[17Nov2025 14:09:39.581] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mekanismgenerators:fusion_fuel Expected: 1228 Got: 1871
+[17Nov2025 14:09:39.581] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mekanismgenerators:tritium Expected: 1229 Got: 1872
+[17Nov2025 14:09:39.581] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:fluid: Object did not get ID it asked for. Name: mekanismgenerators:bioethanol Expected: 41 Got: 51
+[17Nov2025 14:09:39.581] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:fluid: Object did not get ID it asked for. Name: mekanismgenerators:flowing_bioethanol Expected: 42 Got: 52
+[17Nov2025 14:09:39.581] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:fluid: Object did not get ID it asked for. Name: mekanismgenerators:deuterium Expected: 43 Got: 53
+[17Nov2025 14:09:39.581] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:fluid: Object did not get ID it asked for. Name: mekanismgenerators:flowing_deuterium Expected: 44 Got: 54
+[17Nov2025 14:09:39.581] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:fluid: Object did not get ID it asked for. Name: mekanismgenerators:fusion_fuel Expected: 45 Got: 55
+[17Nov2025 14:09:39.581] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:fluid: Object did not get ID it asked for. Name: mekanismgenerators:flowing_fusion_fuel Expected: 46 Got: 56
+[17Nov2025 14:09:39.581] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:fluid: Object did not get ID it asked for. Name: mekanismgenerators:tritium Expected: 47 Got: 57
+[17Nov2025 14:09:39.581] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:fluid: Object did not get ID it asked for. Name: mekanismgenerators:flowing_tritium Expected: 48 Got: 58
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:wood_paxel Expected: 1634 Got: 2333
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:stone_paxel Expected: 1635 Got: 2334
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:iron_paxel Expected: 1636 Got: 2335
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:diamond_paxel Expected: 1637 Got: 2336
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:gold_paxel Expected: 1638 Got: 2337
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:netherite_paxel Expected: 1639 Got: 2338
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:bronze_pickaxe Expected: 1640 Got: 2339
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:bronze_axe Expected: 1641 Got: 2340
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:bronze_shovel Expected: 1642 Got: 2341
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:bronze_hoe Expected: 1643 Got: 2342
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:bronze_sword Expected: 1644 Got: 2343
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:bronze_paxel Expected: 1645 Got: 2344
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:bronze_helmet Expected: 1646 Got: 2345
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:bronze_chestplate Expected: 1647 Got: 2346
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:bronze_leggings Expected: 1648 Got: 2347
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:bronze_boots Expected: 1649 Got: 2348
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:bronze_shield Expected: 1650 Got: 2349
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:lapis_lazuli_pickaxe Expected: 1651 Got: 2350
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:lapis_lazuli_axe Expected: 1652 Got: 2351
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:lapis_lazuli_shovel Expected: 1653 Got: 2352
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:lapis_lazuli_hoe Expected: 1654 Got: 2353
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:lapis_lazuli_sword Expected: 1655 Got: 2354
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:lapis_lazuli_paxel Expected: 1656 Got: 2355
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:lapis_lazuli_helmet Expected: 1657 Got: 2356
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:lapis_lazuli_chestplate Expected: 1658 Got: 2357
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:lapis_lazuli_leggings Expected: 1659 Got: 2358
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:lapis_lazuli_boots Expected: 1660 Got: 2359
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:lapis_lazuli_shield Expected: 1661 Got: 2360
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:osmium_pickaxe Expected: 1662 Got: 2361
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:osmium_axe Expected: 1663 Got: 2362
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:osmium_shovel Expected: 1664 Got: 2363
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:osmium_hoe Expected: 1665 Got: 2364
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:osmium_sword Expected: 1666 Got: 2365
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:osmium_paxel Expected: 1667 Got: 2366
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:osmium_helmet Expected: 1668 Got: 2367
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:osmium_chestplate Expected: 1669 Got: 2368
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:osmium_leggings Expected: 1670 Got: 2369
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:osmium_boots Expected: 1671 Got: 2370
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:osmium_shield Expected: 1672 Got: 2371
+[17Nov2025 14:09:39.583] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:refined_glowstone_pickaxe Expected: 1673 Got: 2372
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:refined_glowstone_axe Expected: 1674 Got: 2373
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:refined_glowstone_shovel Expected: 1675 Got: 2374
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:refined_glowstone_hoe Expected: 1676 Got: 2375
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:refined_glowstone_sword Expected: 1677 Got: 2376
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:refined_glowstone_paxel Expected: 1678 Got: 2377
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:refined_glowstone_helmet Expected: 1679 Got: 2378
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:refined_glowstone_chestplate Expected: 1680 Got: 2379
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:refined_glowstone_leggings Expected: 1681 Got: 2380
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:refined_glowstone_boots Expected: 1682 Got: 2381
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:refined_glowstone_shield Expected: 1683 Got: 2382
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:refined_obsidian_pickaxe Expected: 1684 Got: 2383
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:refined_obsidian_axe Expected: 1685 Got: 2384
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:refined_obsidian_shovel Expected: 1686 Got: 2385
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:refined_obsidian_hoe Expected: 1687 Got: 2386
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:refined_obsidian_sword Expected: 1688 Got: 2387
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:refined_obsidian_paxel Expected: 1689 Got: 2388
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:refined_obsidian_helmet Expected: 1690 Got: 2389
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:refined_obsidian_chestplate Expected: 1691 Got: 2390
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:refined_obsidian_leggings Expected: 1692 Got: 2391
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:refined_obsidian_boots Expected: 1693 Got: 2392
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:refined_obsidian_shield Expected: 1694 Got: 2393
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:steel_pickaxe Expected: 1695 Got: 2394
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:steel_axe Expected: 1696 Got: 2395
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:steel_shovel Expected: 1697 Got: 2396
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:steel_hoe Expected: 1698 Got: 2397
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:steel_sword Expected: 1699 Got: 2398
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:steel_paxel Expected: 1700 Got: 2399
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:steel_helmet Expected: 1701 Got: 2400
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:steel_chestplate Expected: 1702 Got: 2401
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:steel_leggings Expected: 1703 Got: 2402
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:steel_boots Expected: 1704 Got: 2403
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismtools:steel_shield Expected: 1705 Got: 2404
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:solar_panel Expected: 1706 Got: 2405
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:hohlraum Expected: 1707 Got: 2406
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:turbine_blade Expected: 1708 Got: 2407
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:module_solar_recharging_unit Expected: 1709 Got: 2408
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:module_geothermal_generator_unit Expected: 1710 Got: 2409
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:heat_generator Expected: 1711 Got: 2410
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:solar_generator Expected: 1712 Got: 2411
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:gas_burning_generator Expected: 1713 Got: 2412
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:bio_generator Expected: 1714 Got: 2413
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:advanced_solar_generator Expected: 1715 Got: 2414
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:wind_generator Expected: 1716 Got: 2415
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:turbine_rotor Expected: 1717 Got: 2416
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:rotational_complex Expected: 1718 Got: 2417
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:electromagnetic_coil Expected: 1719 Got: 2418
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:turbine_casing Expected: 1720 Got: 2419
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:turbine_valve Expected: 1721 Got: 2420
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:turbine_vent Expected: 1722 Got: 2421
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:saturating_condenser Expected: 1723 Got: 2422
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:reactor_glass Expected: 1724 Got: 2423
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:fission_reactor_casing Expected: 1725 Got: 2424
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:fission_reactor_port Expected: 1726 Got: 2425
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:fission_reactor_logic_adapter Expected: 1727 Got: 2426
+[17Nov2025 14:09:39.584] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:fission_fuel_assembly Expected: 1728 Got: 2427
+[17Nov2025 14:09:39.585] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:control_rod_assembly Expected: 1729 Got: 2428
+[17Nov2025 14:09:39.585] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:fusion_reactor_controller Expected: 1730 Got: 2429
+[17Nov2025 14:09:39.585] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:fusion_reactor_frame Expected: 1731 Got: 2430
+[17Nov2025 14:09:39.585] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:fusion_reactor_port Expected: 1732 Got: 2431
+[17Nov2025 14:09:39.585] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:fusion_reactor_logic_adapter Expected: 1733 Got: 2432
+[17Nov2025 14:09:39.585] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:laser_focus_matrix Expected: 1734 Got: 2433
+[17Nov2025 14:09:39.585] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:bioethanol_bucket Expected: 1735 Got: 2434
+[17Nov2025 14:09:39.585] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:deuterium_bucket Expected: 1736 Got: 2435
+[17Nov2025 14:09:39.585] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:fusion_fuel_bucket Expected: 1737 Got: 2436
+[17Nov2025 14:09:39.585] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mekanismgenerators:tritium_bucket Expected: 1738 Got: 2437
+[17Nov2025 14:09:39.585] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mekanismgenerators:tile.machine.fusion_reactor Expected: 1519 Got: 1600
+[17Nov2025 14:09:39.585] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mekanismgenerators:tile.generator.bio Expected: 1520 Got: 1601
+[17Nov2025 14:09:39.585] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mekanismgenerators:tile.generator.gas Expected: 1521 Got: 1602
+[17Nov2025 14:09:39.585] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mekanismgenerators:tile.generator.heat Expected: 1522 Got: 1603
+[17Nov2025 14:09:39.585] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mekanismgenerators:tile.generator.solar Expected: 1523 Got: 1604
+[17Nov2025 14:09:39.585] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mekanismgenerators:tile.generator.wind Expected: 1524 Got: 1605
+[17Nov2025 14:09:39.585] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mekanismgenerators:tile.machine.fission_reactor Expected: 1525 Got: 1606
+[17Nov2025 14:09:40.892] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/nphne-oklvsvxa/mserver/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23175!/assets/.mcassetsroot' uses unexpected schema
+[17Nov2025 14:09:40.892] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/nphne-oklvsvxa/mserver/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23175!/data/.mcassetsroot' uses unexpected schema
+[17Nov2025 14:09:40.992] [main/INFO] [com.simibubi.create.Create/]: Created 157 recipes which will be injected into the game
+[17Nov2025 14:09:41.004] [main/INFO] [com.simibubi.create.Create/]: Created 0 tags which will be injected into the game
+[17Nov2025 14:09:43.649] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 51 recipes
+[17Nov2025 14:09:43.804] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2492 advancements
+[17Nov2025 14:09:45.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[17Nov2025 14:09:45.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[17Nov2025 14:09:45.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[17Nov2025 14:09:45.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[17Nov2025 14:09:45.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[17Nov2025 14:09:45.346] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[17Nov2025 14:09:45.473] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17Nov2025 14:09:45.473] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[17Nov2025 14:09:45.473] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17Nov2025 14:09:45.473] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[17Nov2025 14:09:45.859] [Server thread/INFO] [Minecraft/]: This server is running Arclight version arclight-1.20.1-1.0.6-4e94eb76 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT)
+[17Nov2025 14:09:47.078] [Server thread/INFO] [Arclight/]: 正在向 Bukkit 注册 ...
+[17Nov2025 14:09:47.245] [Server thread/INFO] [Arclight/]: 注册了 1258 个材料，其中 870 个方块 388 个物品
+[17Nov2025 14:09:47.249] [Server thread/INFO] [Arclight/]: 注册了 1 个新的药水效果
+[17Nov2025 14:09:47.258] [Server thread/INFO] [Arclight/]: 注册了 41 个新的附魔
+[17Nov2025 14:09:47.477] [Server thread/INFO] [Arclight/]: 注册了 11 个新的生物类型
+[17Nov2025 14:09:47.477] [Server thread/INFO] [Arclight/]: 注册了 0 个新的村民职业
+[17Nov2025 14:09:47.478] [Server thread/INFO] [Arclight/]: 注册了 0 个新的生物群系
+[17Nov2025 14:09:47.509] [Server thread/INFO] [STDOUT/]: Server Ping Player Sample Count: 12
+[17Nov2025 14:09:47.514] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[17Nov2025 14:09:47.515] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[17Nov2025 14:09:47.689] [Server thread/INFO] [Arclight/]: 正在加载混淆数据 ...
+[17Nov2025 14:09:48.329] [Server thread/INFO] [Arclight/]: 正在加载 Plugin Patcher ...
+[17Nov2025 14:09:48.559] [Server thread/INFO] [WorldEdit/]: Loading WorldEdit v7.3.1+6763-2e55f4f
+[17Nov2025 14:09:49.282] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@646f32a3]
+[17Nov2025 14:09:49.288] [Server thread/INFO] [Essentials/]: Loading Essentials v2.20.1
+[17Nov2025 14:09:49.293] [Server thread/INFO] [WorldEdit/]: Enabling WorldEdit v7.3.1+6763-2e55f4f
+[17Nov2025 14:09:49.322] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[17Nov2025 14:09:49.440] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: Using the Bukkit Permissions API.
+[17Nov2025 14:09:49.817] [Server thread/WARN] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: 
 **********************************************
 ** This WorldEdit version does not fully support your version of Bukkit.
 **
@@ -85,346 +234,538 @@
 ** Please see https://worldedit.enginehub.org/en/latest/faq/#bukkit-adapters
 **********************************************
 
-[17Nov2025 14:03:17.301] [Server thread/INFO] [WorldEdit/]: ====================================================
-[17Nov2025 14:03:17.301] [Server thread/INFO] [WorldEdit/]:  WorldEdit works better if you use Paper 
-[17Nov2025 14:03:17.301] [Server thread/INFO] [WorldEdit/]:  as your server software. 
-[17Nov2025 14:03:17.301] [Server thread/INFO] [WorldEdit/]:   
-[17Nov2025 14:03:17.301] [Server thread/INFO] [WorldEdit/]:  Paper offers significant performance improvements,
-[17Nov2025 14:03:17.301] [Server thread/INFO] [WorldEdit/]:  bug fixes, security enhancements and optional
-[17Nov2025 14:03:17.301] [Server thread/INFO] [WorldEdit/]:  features for server owners to enhance their server.
-[17Nov2025 14:03:17.301] [Server thread/INFO] [WorldEdit/]:   
-[17Nov2025 14:03:17.302] [Server thread/INFO] [WorldEdit/]:  Paper includes Timings v2, which is significantly
-[17Nov2025 14:03:17.302] [Server thread/INFO] [WorldEdit/]:  better at diagnosing lag problems over v1.
-[17Nov2025 14:03:17.302] [Server thread/INFO] [WorldEdit/]:   
-[17Nov2025 14:03:17.302] [Server thread/INFO] [WorldEdit/]:  All of your plugins should still work, and the
-[17Nov2025 14:03:17.302] [Server thread/INFO] [WorldEdit/]:  Paper community will gladly help you fix any issues.
-[17Nov2025 14:03:17.302] [Server thread/INFO] [WorldEdit/]:   
-[17Nov2025 14:03:17.302] [Server thread/INFO] [WorldEdit/]:  Join the Paper Community @ https://papermc.io
-[17Nov2025 14:03:17.302] [Server thread/INFO] [WorldEdit/]: ====================================================
-[17Nov2025 14:03:17.310] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/create-server.toml is not correct. Correcting
-[17Nov2025 14:03:17.310] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key infrastructure was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17Nov2025 14:03:17.310] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key infrastructure.tickrateSyncTimer was corrected from null to its default, 20. 
-[17Nov2025 14:03:17.314] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17Nov2025 14:03:17.314] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes.bulkPressing was corrected from null to its default, false. 
-[17Nov2025 14:03:17.314] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes.bulkCutting was corrected from null to its default, false. 
-[17Nov2025 14:03:17.314] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes.allowBrewingInMixer was corrected from null to its default, true. 
-[17Nov2025 14:03:17.314] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes.allowShapelessInMixer was corrected from null to its default, true. 
-[17Nov2025 14:03:17.314] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes.allowShapedSquareInPress was corrected from null to its default, true. 
-[17Nov2025 14:03:17.314] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes.allowRegularCraftingInCrafter was corrected from null to its default, true. 
-[17Nov2025 14:03:17.314] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes.maxFireworkIngredientsInCrafter was corrected from null to its default, 9. 
-[17Nov2025 14:03:17.314] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes.allowStonecuttingOnSaw was corrected from null to its default, true. 
-[17Nov2025 14:03:17.314] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes.allowCastingBySpout was corrected from null to its default, true. 
-[17Nov2025 14:03:17.315] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes.displayLogStrippingRecipes was corrected from null to its default, true. 
-[17Nov2025 14:03:17.315] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes.lightSourceCountForRefinedRadiance was corrected from null to its default, 10. 
-[17Nov2025 14:03:17.315] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes.enableRefinedRadianceRecipe was corrected from null to its default, true. 
-[17Nov2025 14:03:17.315] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key recipes.enableShadowSteelRecipe was corrected from null to its default, true. 
-[17Nov2025 14:03:17.319] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17Nov2025 14:03:17.319] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.disableStress was corrected from null to its default, false. 
-[17Nov2025 14:03:17.319] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.maxBeltLength was corrected from null to its default, 20. 
-[17Nov2025 14:03:17.319] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.maxChainConveyorLength was corrected from null to its default, 32. 
-[17Nov2025 14:03:17.319] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.maxChainConveyorConnections was corrected from null to its default, 4. 
-[17Nov2025 14:03:17.319] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.crushingDamage was corrected from null to its default, 4. 
-[17Nov2025 14:03:17.319] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.maxRotationSpeed was corrected from null to its default, 256. 
-[17Nov2025 14:03:17.319] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.ignoreDeployerAttacks was corrected from null to its default, CREEPERS. 
-[17Nov2025 14:03:17.319] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.kineticValidationFrequency was corrected from null to its default, 60. 
-[17Nov2025 14:03:17.319] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.crankHungerMultiplier was corrected from null to its default, 0.009999999776482582. 
-[17Nov2025 14:03:17.319] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.minimumWindmillSails was corrected from null to its default, 8. 
-[17Nov2025 14:03:17.319] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.windmillSailsPerRPM was corrected from null to its default, 8. 
-[17Nov2025 14:03:17.319] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.maxEjectorDistance was corrected from null to its default, 32. 
-[17Nov2025 14:03:17.319] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.ejectorScanInterval was corrected from null to its default, 120. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.encasedFan was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.encasedFan.fanPushDistance was corrected from null to its default, 20. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.encasedFan.fanPullDistance was corrected from null to its default, 20. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.encasedFan.fanBlockCheckRate was corrected from null to its default, 30. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.encasedFan.fanRotationArgmax was corrected from null to its default, 256. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.encasedFan.fanProcessingTime was corrected from null to its default, 150. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.maxBlocksMoved was corrected from null to its default, 2048. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.maxChassisRange was corrected from null to its default, 16. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.maxPistonPoles was corrected from null to its default, 64. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.maxRopeLength was corrected from null to its default, 384. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.maxCartCouplingLength was corrected from null to its default, 32. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.rollerFillDepth was corrected from null to its default, 12. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.survivalContraptionPickup was corrected from null to its default, true. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.movableSpawners was corrected from null to its default, NO_PICKUP. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.amethystMovement was corrected from null to its default, NO_PICKUP. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.movableObsidian was corrected from null to its default, UNMOVABLE. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.movableReinforcedDeepslate was corrected from null to its default, UNMOVABLE. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.moveItemsToStorage was corrected from null to its default, true. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.harvestPartiallyGrown was corrected from null to its default, false. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.harvesterReplants was corrected from null to its default, true. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.minecartContraptionInContainers was corrected from null to its default, false. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.stabiliseStableContraptions was corrected from null to its default, false. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.syncPlayerPickupHitboxWithContraptionHitbox was corrected from null to its default, false. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.contraptions.noDropWhenContraptionReplaceBlocks was corrected from null to its default, false. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stats was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stats.mediumSpeed was corrected from null to its default, 30.0. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stats.fastSpeed was corrected from null to its default, 100.0. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stats.mediumStressImpact was corrected from null to its default, 4.0. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stats.highStressImpact was corrected from null to its default, 8.0. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stats.mediumCapacity was corrected from null to its default, 256.0. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stats.highCapacity was corrected from null to its default, 1024.0. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2 was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.brass_encased_shaft was corrected from null to its default, 0.0. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.turntable was corrected from null to its default, 4.0. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.clutch was corrected from null to its default, 0.0. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.mechanical_mixer was corrected from null to its default, 4.0. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.gearbox was corrected from null to its default, 0.0. 
-[17Nov2025 14:03:17.320] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.mechanical_bearing was corrected from null to its default, 4.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.copper_backtank was corrected from null to its default, 4.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.hose_pulley was corrected from null to its default, 4.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.display_board was corrected from null to its default, 0.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.crushing_wheel was corrected from null to its default, 8.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.adjustable_chain_gearshift was corrected from null to its default, 0.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.millstone was corrected from null to its default, 4.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.rotation_speed_controller was corrected from null to its default, 0.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.sticky_mechanical_piston was corrected from null to its default, 4.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.mechanical_crafter was corrected from null to its default, 2.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.deployer was corrected from null to its default, 4.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.elevator_pulley was corrected from null to its default, 4.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.stressometer was corrected from null to its default, 0.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.cogwheel was corrected from null to its default, 0.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.encased_chain_drive was corrected from null to its default, 0.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.belt was corrected from null to its default, 0.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.brass_encased_large_cogwheel was corrected from null to its default, 0.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.weighted_ejector was corrected from null to its default, 2.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.chain_conveyor was corrected from null to its default, 1.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.mechanical_saw was corrected from null to its default, 4.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.flywheel was corrected from null to its default, 0.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.mechanical_piston was corrected from null to its default, 4.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.speedometer was corrected from null to its default, 0.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.brass_encased_cogwheel was corrected from null to its default, 0.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.clockwork_bearing was corrected from null to its default, 4.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.mechanical_press was corrected from null to its default, 8.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.mechanical_drill was corrected from null to its default, 4.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.andesite_encased_shaft was corrected from null to its default, 0.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.netherite_backtank was corrected from null to its default, 4.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.mechanical_arm was corrected from null to its default, 2.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.sequenced_gearshift was corrected from null to its default, 0.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.andesite_encased_large_cogwheel was corrected from null to its default, 0.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.shaft was corrected from null to its default, 0.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.cuckoo_clock was corrected from null to its default, 1.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.gearshift was corrected from null to its default, 0.0. 
-[17Nov2025 14:03:17.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.rope_pulley was corrected from null to its default, 4.0. 
-[17Nov2025 14:03:17.324] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.andesite_encased_cogwheel was corrected from null to its default, 0.0. 
-[17Nov2025 14:03:17.324] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.large_cogwheel was corrected from null to its default, 0.0. 
-[17Nov2025 14:03:17.324] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.encased_fan was corrected from null to its default, 2.0. 
-[17Nov2025 14:03:17.324] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.mysterious_cuckoo_clock was corrected from null to its default, 1.0. 
-[17Nov2025 14:03:17.324] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.gantry_shaft was corrected from null to its default, 0.0. 
-[17Nov2025 14:03:17.324] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.impact.mechanical_pump was corrected from null to its default, 4.0. 
-[17Nov2025 14:03:17.324] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.capacity was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17Nov2025 14:03:17.324] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.capacity.steam_engine was corrected from null to its default, 1024.0. 
-[17Nov2025 14:03:17.324] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.capacity.water_wheel was corrected from null to its default, 32.0. 
-[17Nov2025 14:03:17.324] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.capacity.copper_valve_handle was corrected from null to its default, 8.0. 
-[17Nov2025 14:03:17.324] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.capacity.hand_crank was corrected from null to its default, 8.0. 
-[17Nov2025 14:03:17.324] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.capacity.creative_motor was corrected from null to its default, 16384.0. 
-[17Nov2025 14:03:17.324] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.capacity.large_water_wheel was corrected from null to its default, 128.0. 
-[17Nov2025 14:03:17.324] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key kinetics.stressValues.v2.capacity.windmill_bearing was corrected from null to its default, 512.0. 
-[17Nov2025 14:03:17.339] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key fluids was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17Nov2025 14:03:17.339] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key fluids.fluidTankCapacity was corrected from null to its default, 8. 
-[17Nov2025 14:03:17.339] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key fluids.fluidTankMaxHeight was corrected from null to its default, 32. 
-[17Nov2025 14:03:17.339] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key fluids.mechanicalPumpRange was corrected from null to its default, 16. 
-[17Nov2025 14:03:17.339] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key fluids.hosePulleyRange was corrected from null to its default, 128. 
-[17Nov2025 14:03:17.339] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key fluids.hosePulleyBlockThreshold was corrected from null to its default, 10000. 
-[17Nov2025 14:03:17.339] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key fluids.fillInfinite was corrected from null to its default, false. 
-[17Nov2025 14:03:17.339] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key fluids.bottomlessFluidMode was corrected from null to its default, ALLOW_BY_TAG. 
-[17Nov2025 14:03:17.339] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key fluids.fluidFillPlaceFluidSourceBlocks was corrected from null to its default, true. 
-[17Nov2025 14:03:17.339] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key fluids.pipesPlaceFluidSourceBlocks was corrected from null to its default, true. 
-[17Nov2025 14:03:17.357] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key logistics was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17Nov2025 14:03:17.358] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key logistics.defaultExtractionTimer was corrected from null to its default, 8. 
-[17Nov2025 14:03:17.358] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key logistics.psiTimeout was corrected from null to its default, 60. 
-[17Nov2025 14:03:17.358] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key logistics.mechanicalArmRange was corrected from null to its default, 5. 
-[17Nov2025 14:03:17.358] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key logistics.packagePortRange was corrected from null to its default, 5. 
-[17Nov2025 14:03:17.358] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key logistics.linkRange was corrected from null to its default, 256. 
-[17Nov2025 14:03:17.358] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key logistics.displayLinkRange was corrected from null to its default, 64. 
-[17Nov2025 14:03:17.358] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key logistics.vaultCapacity was corrected from null to its default, 20. 
-[17Nov2025 14:03:17.358] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key logistics.chainConveyorCapacity was corrected from null to its default, 20. 
-[17Nov2025 14:03:17.358] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key logistics.brassTunnelTimer was corrected from null to its default, 10. 
-[17Nov2025 14:03:17.358] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key logistics.factoryGaugeTimer was corrected from null to its default, 100. 
-[17Nov2025 14:03:17.358] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key logistics.seatHostileMobs was corrected from null to its default, true. 
-[17Nov2025 14:03:17.368] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key schematics was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17Nov2025 14:03:17.368] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key schematics.creativePrintIncludesAir was corrected from null to its default, false. 
-[17Nov2025 14:03:17.368] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key schematics.maxSchematics was corrected from null to its default, 10. 
-[17Nov2025 14:03:17.368] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key schematics.maxTotalSchematicSize was corrected from null to its default, 256. 
-[17Nov2025 14:03:17.368] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key schematics.maxSchematicPacketSize was corrected from null to its default, 1024. 
-[17Nov2025 14:03:17.368] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key schematics.schematicIdleTimeout was corrected from null to its default, 600. 
-[17Nov2025 14:03:17.368] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key schematics.schematicannon was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17Nov2025 14:03:17.368] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key schematics.schematicannon.schematicannonDelay was corrected from null to its default, 10. 
-[17Nov2025 14:03:17.368] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key schematics.schematicannon.schematicannonShotsPerGunpowder was corrected from null to its default, 400. 
-[17Nov2025 14:03:17.393] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key equipment was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17Nov2025 14:03:17.393] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key equipment.maxSymmetryWandRange was corrected from null to its default, 50. 
-[17Nov2025 14:03:17.393] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key equipment.placementAssistRange was corrected from null to its default, 12. 
-[17Nov2025 14:03:17.393] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key equipment.toolboxRange was corrected from null to its default, 10. 
-[17Nov2025 14:03:17.393] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key equipment.airInBacktank was corrected from null to its default, 900. 
-[17Nov2025 14:03:17.394] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key equipment.enchantedBacktankCapacity was corrected from null to its default, 300. 
-[17Nov2025 14:03:17.394] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key equipment.maxExtendoGripActions was corrected from null to its default, 1000. 
-[17Nov2025 14:03:17.394] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key equipment.maxPotatoCannonShots was corrected from null to its default, 200. 
-[17Nov2025 14:03:17.406] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trains was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17Nov2025 14:03:17.406] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trains.trainsCauseDamage was corrected from null to its default, true. 
-[17Nov2025 14:03:17.406] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trains.maxTrackPlacementLength was corrected from null to its default, 32. 
-[17Nov2025 14:03:17.406] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trains.maxAssemblyLength was corrected from null to its default, 128. 
-[17Nov2025 14:03:17.406] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trains.maxBogeyCount was corrected from null to its default, 20. 
-[17Nov2025 14:03:17.407] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trains.manualTrainSpeedModifier was corrected from null to its default, 0.75. 
-[17Nov2025 14:03:17.407] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trains.trainStats was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17Nov2025 14:03:17.407] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trains.trainStats.trainTopSpeed was corrected from null to its default, 28.0. 
-[17Nov2025 14:03:17.407] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trains.trainStats.trainTurningTopSpeed was corrected from null to its default, 14.0. 
-[17Nov2025 14:03:17.407] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trains.trainStats.trainAcceleration was corrected from null to its default, 3.0. 
-[17Nov2025 14:03:17.408] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trains.poweredTrainStats was corrected from null to its default, SimpleCommentedConfig:{}. 
-[17Nov2025 14:03:17.408] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trains.poweredTrainStats.poweredTrainTopSpeed was corrected from null to its default, 40.0. 
-[17Nov2025 14:03:17.408] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trains.poweredTrainStats.poweredTrainTurningTopSpeed was corrected from null to its default, 20.0. 
-[17Nov2025 14:03:17.408] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trains.poweredTrainStats.poweredTrainAcceleration was corrected from null to its default, 3.0. 
-[17Nov2025 14:03:17.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[17Nov2025 14:03:17.492] [Server thread/INFO] [Arclight/]: 注册了 0 个新的世界类型
-[17Nov2025 14:03:17.867] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
-[17Nov2025 14:03:17.868] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[17Nov2025 14:03:17.868] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[17Nov2025 14:03:17.868] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
-[17Nov2025 14:03:17.869] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[17Nov2025 14:03:17.869] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
-[17Nov2025 14:03:17.869] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
-[17Nov2025 14:03:17.869] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
-[17Nov2025 14:03:17.869] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
-[17Nov2025 14:03:17.869] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
-[17Nov2025 14:03:17.869] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
-[17Nov2025 14:03:17.869] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
-[17Nov2025 14:03:17.869] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
-[17Nov2025 14:03:17.870] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
-[17Nov2025 14:03:17.870] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
-[17Nov2025 14:03:17.870] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
-[17Nov2025 14:03:17.870] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
-[17Nov2025 14:03:17.870] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
-[17Nov2025 14:03:17.870] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
-[17Nov2025 14:03:17.870] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
-[17Nov2025 14:03:17.870] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
-[17Nov2025 14:03:17.870] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
-[17Nov2025 14:03:17.870] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
-[17Nov2025 14:03:17.870] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
-[17Nov2025 14:03:17.870] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
-[17Nov2025 14:03:17.870] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
-[17Nov2025 14:03:17.870] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
-[17Nov2025 14:03:17.870] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[17Nov2025 14:03:17.870] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[17Nov2025 14:03:17.870] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
-[17Nov2025 14:03:17.871] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[17Nov2025 14:03:17.871] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
-[17Nov2025 14:03:17.871] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
-[17Nov2025 14:03:17.871] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
-[17Nov2025 14:03:17.871] [Server thread/INFO] [Minecraft/]: View Distance: 10
-[17Nov2025 14:03:17.871] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
-[17Nov2025 14:03:21.676] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM1] --------
-[17Nov2025 14:03:21.678] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[17Nov2025 14:03:21.679] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[17Nov2025 14:03:21.680] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
-[17Nov2025 14:03:21.681] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[17Nov2025 14:03:21.681] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
-[17Nov2025 14:03:21.681] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
-[17Nov2025 14:03:21.682] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
-[17Nov2025 14:03:21.682] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
-[17Nov2025 14:03:21.682] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
-[17Nov2025 14:03:21.682] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
-[17Nov2025 14:03:21.682] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
-[17Nov2025 14:03:21.683] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
-[17Nov2025 14:03:21.683] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
-[17Nov2025 14:03:21.683] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
-[17Nov2025 14:03:21.683] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
-[17Nov2025 14:03:21.683] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
-[17Nov2025 14:03:21.683] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
-[17Nov2025 14:03:21.683] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
-[17Nov2025 14:03:21.683] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
-[17Nov2025 14:03:21.684] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
-[17Nov2025 14:03:21.684] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
-[17Nov2025 14:03:21.684] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
-[17Nov2025 14:03:21.684] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
-[17Nov2025 14:03:21.684] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
-[17Nov2025 14:03:21.684] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
-[17Nov2025 14:03:21.684] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
-[17Nov2025 14:03:21.685] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[17Nov2025 14:03:21.685] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[17Nov2025 14:03:21.685] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
-[17Nov2025 14:03:21.685] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[17Nov2025 14:03:21.685] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
-[17Nov2025 14:03:21.686] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
-[17Nov2025 14:03:21.686] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
-[17Nov2025 14:03:21.686] [Server thread/INFO] [Minecraft/]: View Distance: 10
-[17Nov2025 14:03:21.686] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
-[17Nov2025 14:03:21.710] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM-1] --------
-[17Nov2025 14:03:21.710] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[17Nov2025 14:03:21.710] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[17Nov2025 14:03:21.710] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
-[17Nov2025 14:03:21.710] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[17Nov2025 14:03:21.710] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
-[17Nov2025 14:03:21.710] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: View Distance: 10
-[17Nov2025 14:03:21.711] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
-[17Nov2025 14:03:21.730] [Server thread/INFO] [Essentials/]: Enabling Essentials v2.20.1
-[17Nov2025 14:03:21.780] [Server thread/ERROR] [Essentials/]: You are running a server that does not properly support Bukkit plugins. Bukkit plugins should not be used with Forge/Fabric mods! For Forge: Consider using ForgeEssentials, or SpongeForge + Nucleus.
-[17Nov2025 14:03:21.780] [Server thread/INFO] [Essentials/]: Status determining class: net.minecraftforge.common.MinecraftForge
-[17Nov2025 14:03:22.254] [Server thread/INFO] [Essentials/]: Attempting to convert old kits in config.yml to new kits.yml
-[17Nov2025 14:03:22.254] [Server thread/INFO] [Essentials/]: No kits found to migrate.
-[17Nov2025 14:03:22.255] [Server thread/INFO] [Essentials/]: Starting Essentials ban format conversion
-[17Nov2025 14:03:22.255] [Server thread/INFO] [Essentials/]: Attempting to migrate ignore list to UUIDs
-[17Nov2025 14:03:22.255] [Server thread/INFO] [Essentials/]: Attempting to migrate legacy userdata keys to Configurate
-[17Nov2025 14:03:22.538] [Server thread/INFO] [Essentials/]: Loaded 39094 items from items.json.
-[17Nov2025 14:03:22.613] [Server thread/INFO] [Essentials/]: Using locale en
-[17Nov2025 14:03:22.675] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
-[17Nov2025 14:03:22.700] [Server thread/INFO] [Essentials/]: Starting Metrics. Opt-out using the global bStats config.
-[17Nov2025 14:03:22.705] [Server thread/INFO] [Essentials/]: Using superperms-based permissions.
-[17Nov2025 14:03:22.716] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
-[17Nov2025 14:03:22.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[17Nov2025 14:03:26.553] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Nov2025 14:03:26.553] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Nov2025 14:03:26.554] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Nov2025 14:03:26.555] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Nov2025 14:03:26.556] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Nov2025 14:03:26.556] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Nov2025 14:03:26.557] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Nov2025 14:03:26.558] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Nov2025 14:03:26.841] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[17Nov2025 14:03:27.616] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 38%
-[17Nov2025 14:03:27.842] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
-[17Nov2025 14:03:28.092] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5251 ms
-[17Nov2025 14:03:28.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.790s)! For help, type "help"
-[17Nov2025 14:03:28.133] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[17Nov2025 14:03:28.134] [Server thread/INFO] [Arclight/]: Forwarding forge permission[forge:default_handler] to bukkit
-[17Nov2025 14:03:28.158] [Craft Scheduler Thread - 0/INFO] [Essentials/]: Fetching version information...
-[17Nov2025 14:03:28.880] [Craft Scheduler Thread - 0/WARN] [Essentials/]: There is a new EssentialsX version available for download: 2.21.2.
-[17Nov2025 14:03:28.880] [Craft Scheduler Thread - 0/WARN] [Essentials/]: Download it here: https://essentialsx.net/downloads.html?branch=stable
-[17Nov2025 14:03:32.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[17Nov2025 14:03:32.885] [Server thread/INFO] [Essentials/]: Disabling Essentials v2.20.1
-[17Nov2025 14:03:32.890] [Server thread/INFO] [WorldEdit/]: Disabling WorldEdit v7.3.1+6763-2e55f4f
-[17Nov2025 14:03:32.897] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[17Nov2025 14:03:32.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[17Nov2025 14:03:32.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[17Nov2025 14:03:34.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17Nov2025 14:03:41.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
-[17Nov2025 14:03:41.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
-[17Nov2025 14:03:46.704] [Exit Thread/INFO] [Arclight/]: 2 threads not shutting down correctly, force exiting
+[17Nov2025 14:09:50.454] [Server thread/INFO] [WorldEdit/]: ====================================================
+[17Nov2025 14:09:50.454] [Server thread/INFO] [WorldEdit/]:  WorldEdit works better if you use Paper 
+[17Nov2025 14:09:50.454] [Server thread/INFO] [WorldEdit/]:  as your server software. 
+[17Nov2025 14:09:50.454] [Server thread/INFO] [WorldEdit/]:   
+[17Nov2025 14:09:50.454] [Server thread/INFO] [WorldEdit/]:  Paper offers significant performance improvements,
+[17Nov2025 14:09:50.454] [Server thread/INFO] [WorldEdit/]:  bug fixes, security enhancements and optional
+[17Nov2025 14:09:50.454] [Server thread/INFO] [WorldEdit/]:  features for server owners to enhance their server.
+[17Nov2025 14:09:50.454] [Server thread/INFO] [WorldEdit/]:   
+[17Nov2025 14:09:50.454] [Server thread/INFO] [WorldEdit/]:  Paper includes Timings v2, which is significantly
+[17Nov2025 14:09:50.454] [Server thread/INFO] [WorldEdit/]:  better at diagnosing lag problems over v1.
+[17Nov2025 14:09:50.454] [Server thread/INFO] [WorldEdit/]:   
+[17Nov2025 14:09:50.454] [Server thread/INFO] [WorldEdit/]:  All of your plugins should still work, and the
+[17Nov2025 14:09:50.454] [Server thread/INFO] [WorldEdit/]:  Paper community will gladly help you fix any issues.
+[17Nov2025 14:09:50.454] [Server thread/INFO] [WorldEdit/]:   
+[17Nov2025 14:09:50.454] [Server thread/INFO] [WorldEdit/]:  Join the Paper Community @ https://papermc.io
+[17Nov2025 14:09:50.454] [Server thread/INFO] [WorldEdit/]: ====================================================
+[17Nov2025 14:09:50.457] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /home/nphne-oklvsvxa/mserver/config/Mekanism/tools.toml is not correct. Correcting
+[17Nov2025 14:09:50.458] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.458] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.458] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.general was corrected from null to its default, 0.1. 
+[17Nov2025 14:09:50.458] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.weapon was corrected from null to its default, 0.01. 
+[17Nov2025 14:09:50.458] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.weaponHard was corrected from null to its default, 0.05000000074505806. 
+[17Nov2025 14:09:50.458] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.bronze was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.458] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.bronze.canSpawnWeapon was corrected from null to its default, true. 
+[17Nov2025 14:09:50.458] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.bronze.swordWeight was corrected from null to its default, 0.33. 
+[17Nov2025 14:09:50.458] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.bronze.helmetChance was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.458] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.bronze.chestplateChance was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.458] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.bronze.leggingsChance was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.458] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.bronze.bootsChance was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.458] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.bronze.multiplePieceChance was corrected from null to its default, 0.25. 
+[17Nov2025 14:09:50.458] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.bronze.multiplePieceChanceHard was corrected from null to its default, 0.1. 
+[17Nov2025 14:09:50.458] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.bronze.weaponEnchantmentChance was corrected from null to its default, 0.25. 
+[17Nov2025 14:09:50.458] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.bronze.armorEnchantmentChance was corrected from null to its default, 0.5. 
+[17Nov2025 14:09:50.458] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.lapis_lazuli was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.458] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.lapis_lazuli.canSpawnWeapon was corrected from null to its default, true. 
+[17Nov2025 14:09:50.458] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.lapis_lazuli.swordWeight was corrected from null to its default, 0.33. 
+[17Nov2025 14:09:50.458] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.lapis_lazuli.helmetChance was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.459] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.lapis_lazuli.chestplateChance was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.459] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.lapis_lazuli.leggingsChance was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.459] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.lapis_lazuli.bootsChance was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.459] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.lapis_lazuli.multiplePieceChance was corrected from null to its default, 0.25. 
+[17Nov2025 14:09:50.459] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.lapis_lazuli.multiplePieceChanceHard was corrected from null to its default, 0.1. 
+[17Nov2025 14:09:50.459] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.lapis_lazuli.weaponEnchantmentChance was corrected from null to its default, 0.25. 
+[17Nov2025 14:09:50.459] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.lapis_lazuli.armorEnchantmentChance was corrected from null to its default, 0.5. 
+[17Nov2025 14:09:50.459] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.osmium was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.459] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.osmium.canSpawnWeapon was corrected from null to its default, true. 
+[17Nov2025 14:09:50.459] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.osmium.swordWeight was corrected from null to its default, 0.33. 
+[17Nov2025 14:09:50.459] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.osmium.helmetChance was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.459] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.osmium.chestplateChance was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.459] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.osmium.leggingsChance was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.459] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.osmium.bootsChance was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.459] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.osmium.multiplePieceChance was corrected from null to its default, 0.25. 
+[17Nov2025 14:09:50.459] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.osmium.multiplePieceChanceHard was corrected from null to its default, 0.1. 
+[17Nov2025 14:09:50.459] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.osmium.weaponEnchantmentChance was corrected from null to its default, 0.25. 
+[17Nov2025 14:09:50.462] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.osmium.armorEnchantmentChance was corrected from null to its default, 0.5. 
+[17Nov2025 14:09:50.462] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.refined_glowstone was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.462] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.refined_glowstone.canSpawnWeapon was corrected from null to its default, true. 
+[17Nov2025 14:09:50.462] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.refined_glowstone.swordWeight was corrected from null to its default, 0.33. 
+[17Nov2025 14:09:50.462] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.refined_glowstone.helmetChance was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.462] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.refined_glowstone.chestplateChance was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.462] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.refined_glowstone.leggingsChance was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.462] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.refined_glowstone.bootsChance was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.462] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.refined_glowstone.multiplePieceChance was corrected from null to its default, 0.25. 
+[17Nov2025 14:09:50.462] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.refined_glowstone.multiplePieceChanceHard was corrected from null to its default, 0.1. 
+[17Nov2025 14:09:50.462] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.refined_glowstone.weaponEnchantmentChance was corrected from null to its default, 0.25. 
+[17Nov2025 14:09:50.462] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.refined_glowstone.armorEnchantmentChance was corrected from null to its default, 0.5. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.refined_obsidian was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.refined_obsidian.canSpawnWeapon was corrected from null to its default, true. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.refined_obsidian.swordWeight was corrected from null to its default, 0.33. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.refined_obsidian.helmetChance was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.refined_obsidian.chestplateChance was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.refined_obsidian.leggingsChance was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.refined_obsidian.bootsChance was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.refined_obsidian.multiplePieceChance was corrected from null to its default, 0.25. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.refined_obsidian.multiplePieceChanceHard was corrected from null to its default, 0.1. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.refined_obsidian.weaponEnchantmentChance was corrected from null to its default, 0.25. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.refined_obsidian.armorEnchantmentChance was corrected from null to its default, 0.5. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.steel was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.steel.canSpawnWeapon was corrected from null to its default, true. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.steel.swordWeight was corrected from null to its default, 0.33. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.steel.helmetChance was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.steel.chestplateChance was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.steel.leggingsChance was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.steel.bootsChance was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.steel.multiplePieceChance was corrected from null to its default, 0.25. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.steel.multiplePieceChanceHard was corrected from null to its default, 0.1. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.steel.weaponEnchantmentChance was corrected from null to its default, 0.25. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.mobArmorSpawnRate.steel.armorEnchantmentChance was corrected from null to its default, 0.5. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.wood was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.wood.woodPaxelDamage was corrected from null to its default, 7.0. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.wood.woodPaxelAtkSpeed was corrected from null to its default, -2.4000000953674316. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.wood.woodPaxelEfficiency was corrected from null to its default, 2.0. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.wood.woodPaxelEnchantability was corrected from null to its default, 15. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.wood.woodPaxelMaxUses was corrected from null to its default, 118. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.stone was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.stone.stonePaxelDamage was corrected from null to its default, 8.0. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.stone.stonePaxelAtkSpeed was corrected from null to its default, -2.4000000953674316. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.stone.stonePaxelEfficiency was corrected from null to its default, 4.0. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.stone.stonePaxelEnchantability was corrected from null to its default, 5. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.stone.stonePaxelMaxUses was corrected from null to its default, 262. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.iron was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.iron.ironPaxelDamage was corrected from null to its default, 7.0. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.iron.ironPaxelAtkSpeed was corrected from null to its default, -2.4000000953674316. 
+[17Nov2025 14:09:50.463] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.iron.ironPaxelEfficiency was corrected from null to its default, 6.0. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.iron.ironPaxelEnchantability was corrected from null to its default, 14. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.iron.ironPaxelMaxUses was corrected from null to its default, 500. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.diamond was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.diamond.diamondPaxelDamage was corrected from null to its default, 6.0. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.diamond.diamondPaxelAtkSpeed was corrected from null to its default, -2.4000000953674316. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.diamond.diamondPaxelEfficiency was corrected from null to its default, 8.0. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.diamond.diamondPaxelEnchantability was corrected from null to its default, 10. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.diamond.diamondPaxelMaxUses was corrected from null to its default, 3122. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.gold was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.gold.goldPaxelDamage was corrected from null to its default, 7.0. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.gold.goldPaxelAtkSpeed was corrected from null to its default, -2.4000000953674316. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.gold.goldPaxelEfficiency was corrected from null to its default, 12.0. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.gold.goldPaxelEnchantability was corrected from null to its default, 22. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.gold.goldPaxelMaxUses was corrected from null to its default, 64. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.netherite was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.netherite.netheritePaxelDamage was corrected from null to its default, 6.0. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.netherite.netheritePaxelAtkSpeed was corrected from null to its default, -2.4000000953674316. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.netherite.netheritePaxelEfficiency was corrected from null to its default, 9.0. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.netherite.netheritePaxelEnchantability was corrected from null to its default, 15. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.netherite.netheritePaxelMaxUses was corrected from null to its default, 4062. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzeAttackDamage was corrected from null to its default, 2.0. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzeShieldDurability was corrected from null to its default, 403. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzeSwordDamage was corrected from null to its default, 3.0. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzeSwordAtkSpeed was corrected from null to its default, -2.4000000953674316. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzeShovelDamage was corrected from null to its default, 1.5. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzeShovelAtkSpeed was corrected from null to its default, -3.0. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzeAxeDamage was corrected from null to its default, 7.0. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzeAxeAtkSpeed was corrected from null to its default, -3.0. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzePickaxeDamage was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzePickaxeAtkSpeed was corrected from null to its default, -2.799999952316284. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzeHoeDamage was corrected from null to its default, -2.0. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzeHoeAtkSpeed was corrected from null to its default, -1.0. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzeToolMaxUses was corrected from null to its default, 375. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzeEfficiency was corrected from null to its default, 7.0. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzePaxelDamage was corrected from null to its default, 8.0. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzePaxelAtkSpeed was corrected from null to its default, -2.4000000953674316. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzePaxelEfficiency was corrected from null to its default, 7.0. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzePaxelEnchantability was corrected from null to its default, 10. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzePaxelMaxUses was corrected from null to its default, 750. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzeEnchantability was corrected from null to its default, 10. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzeToughness was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.464] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzeKnockbackResistance was corrected from null to its default, 0.0. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzeBootDurability was corrected from null to its default, 234. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzeLeggingDurability was corrected from null to its default, 270. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzeChestplateDurability was corrected from null to its default, 288. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzeHelmetDurability was corrected from null to its default, 198. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzeBootArmor was corrected from null to its default, 2. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzeLeggingArmor was corrected from null to its default, 6. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzeChestplateArmor was corrected from null to its default, 7. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.bronze.bronzeHelmetArmor was corrected from null to its default, 3. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliAttackDamage was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliShieldDurability was corrected from null to its default, 224. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliSwordDamage was corrected from null to its default, 3.0. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliSwordAtkSpeed was corrected from null to its default, -2.4000000953674316. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliShovelDamage was corrected from null to its default, 1.5. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliShovelAtkSpeed was corrected from null to its default, -3.0. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliAxeDamage was corrected from null to its default, 4.0. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliAxeAtkSpeed was corrected from null to its default, -2.9000000953674316. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliPickaxeDamage was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliPickaxeAtkSpeed was corrected from null to its default, -2.799999952316284. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliHoeDamage was corrected from null to its default, -1.0. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliHoeAtkSpeed was corrected from null to its default, -2.0. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliToolMaxUses was corrected from null to its default, 128. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliEfficiency was corrected from null to its default, 9.0. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliPaxelDamage was corrected from null to its default, 5.0. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliPaxelAtkSpeed was corrected from null to its default, -2.4000000953674316. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliPaxelEfficiency was corrected from null to its default, 9.0. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliPaxelEnchantability was corrected from null to its default, 32. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliPaxelMaxUses was corrected from null to its default, 256. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliEnchantability was corrected from null to its default, 32. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliToughness was corrected from null to its default, 0.0. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliKnockbackResistance was corrected from null to its default, 0.0. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliBootDurability was corrected from null to its default, 130. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliLeggingDurability was corrected from null to its default, 150. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliChestplateDurability was corrected from null to its default, 160. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliHelmetDurability was corrected from null to its default, 110. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliBootArmor was corrected from null to its default, 1. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliLeggingArmor was corrected from null to its default, 3. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliChestplateArmor was corrected from null to its default, 4. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.lapis_lazuli.lapis_lazuliHelmetArmor was corrected from null to its default, 1. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumAttackDamage was corrected from null to its default, 4.0. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumShieldDurability was corrected from null to its default, 672. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumSwordDamage was corrected from null to its default, 3.0. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumSwordAtkSpeed was corrected from null to its default, -2.4000000953674316. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumShovelDamage was corrected from null to its default, 1.5. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumShovelAtkSpeed was corrected from null to its default, -3.0. 
+[17Nov2025 14:09:50.465] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumAxeDamage was corrected from null to its default, 8.0. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumAxeAtkSpeed was corrected from null to its default, -3.299999952316284. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumPickaxeDamage was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumPickaxeAtkSpeed was corrected from null to its default, -2.799999952316284. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumHoeDamage was corrected from null to its default, -4.0. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumHoeAtkSpeed was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumToolMaxUses was corrected from null to its default, 1024. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumEfficiency was corrected from null to its default, 4.0. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumPaxelDamage was corrected from null to its default, 9.0. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumPaxelAtkSpeed was corrected from null to its default, -2.4000000953674316. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumPaxelEfficiency was corrected from null to its default, 4.0. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumPaxelEnchantability was corrected from null to its default, 14. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumPaxelMaxUses was corrected from null to its default, 2048. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumEnchantability was corrected from null to its default, 14. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumToughness was corrected from null to its default, 3.0. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumKnockbackResistance was corrected from null to its default, 0.10000000149011612. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumBootDurability was corrected from null to its default, 390. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumLeggingDurability was corrected from null to its default, 450. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumChestplateDurability was corrected from null to its default, 480. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumHelmetDurability was corrected from null to its default, 330. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumBootArmor was corrected from null to its default, 3. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumLeggingArmor was corrected from null to its default, 6. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumChestplateArmor was corrected from null to its default, 8. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.osmium.osmiumHelmetArmor was corrected from null to its default, 4. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstoneAttackDamage was corrected from null to its default, 2.0. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstoneShieldDurability was corrected from null to its default, 381. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstoneSwordDamage was corrected from null to its default, 3.0. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstoneSwordAtkSpeed was corrected from null to its default, -2.4000000953674316. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstoneShovelDamage was corrected from null to its default, 1.5. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstoneShovelAtkSpeed was corrected from null to its default, -3.0. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstoneAxeDamage was corrected from null to its default, 6.0. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstoneAxeAtkSpeed was corrected from null to its default, -2.9000000953674316. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstonePickaxeDamage was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstonePickaxeAtkSpeed was corrected from null to its default, -2.799999952316284. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstoneHoeDamage was corrected from null to its default, -2.0. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstoneHoeAtkSpeed was corrected from null to its default, -1.0. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstoneToolMaxUses was corrected from null to its default, 384. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstoneEfficiency was corrected from null to its default, 15.0. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstonePaxelDamage was corrected from null to its default, 7.0. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstonePaxelAtkSpeed was corrected from null to its default, -2.4000000953674316. 
+[17Nov2025 14:09:50.466] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstonePaxelEfficiency was corrected from null to its default, 15.0. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstonePaxelEnchantability was corrected from null to its default, 20. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstonePaxelMaxUses was corrected from null to its default, 768. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstoneEnchantability was corrected from null to its default, 20. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstoneToughness was corrected from null to its default, 0.0. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstoneKnockbackResistance was corrected from null to its default, 0.0. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstoneBootDurability was corrected from null to its default, 221. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstoneLeggingDurability was corrected from null to its default, 255. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstoneChestplateDurability was corrected from null to its default, 272. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstoneHelmetDurability was corrected from null to its default, 187. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstoneBootArmor was corrected from null to its default, 3. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstoneLeggingArmor was corrected from null to its default, 6. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstoneChestplateArmor was corrected from null to its default, 8. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_glowstone.refined_glowstoneHelmetArmor was corrected from null to its default, 3. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianAttackDamage was corrected from null to its default, 8.0. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianShieldDurability was corrected from null to its default, 1680. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianSwordDamage was corrected from null to its default, 3.0. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianSwordAtkSpeed was corrected from null to its default, -2.4000000953674316. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianShovelDamage was corrected from null to its default, 1.5. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianShovelAtkSpeed was corrected from null to its default, -3.0. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianAxeDamage was corrected from null to its default, 7.0. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianAxeAtkSpeed was corrected from null to its default, -2.9000000953674316. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianPickaxeDamage was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianPickaxeAtkSpeed was corrected from null to its default, -2.799999952316284. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianHoeDamage was corrected from null to its default, -8.0. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianHoeAtkSpeed was corrected from null to its default, 5.0. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianToolMaxUses was corrected from null to its default, 4096. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianEfficiency was corrected from null to its default, 12.0. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianPaxelDamage was corrected from null to its default, 8.0. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianPaxelAtkSpeed was corrected from null to its default, -2.4000000953674316. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianPaxelEfficiency was corrected from null to its default, 12.0. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianPaxelEnchantability was corrected from null to its default, 18. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianPaxelMaxUses was corrected from null to its default, 8192. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianEnchantability was corrected from null to its default, 18. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianToughness was corrected from null to its default, 5.0. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianKnockbackResistance was corrected from null to its default, 0.20000000298023224. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianBootDurability was corrected from null to its default, 975. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianLeggingDurability was corrected from null to its default, 1125. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianChestplateDurability was corrected from null to its default, 1200. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianHelmetDurability was corrected from null to its default, 825. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianBootArmor was corrected from null to its default, 5. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianLeggingArmor was corrected from null to its default, 8. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianChestplateArmor was corrected from null to its default, 12. 
+[17Nov2025 14:09:50.467] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.refined_obsidian.refined_obsidianHelmetArmor was corrected from null to its default, 6. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelAttackDamage was corrected from null to its default, 3.0. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelShieldDurability was corrected from null to its default, 448. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelSwordDamage was corrected from null to its default, 3.0. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelSwordAtkSpeed was corrected from null to its default, -2.4000000953674316. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelShovelDamage was corrected from null to its default, 1.5. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelShovelAtkSpeed was corrected from null to its default, -3.0. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelAxeDamage was corrected from null to its default, 7.0. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelAxeAtkSpeed was corrected from null to its default, -3.0. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelPickaxeDamage was corrected from null to its default, 1.0. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelPickaxeAtkSpeed was corrected from null to its default, -2.799999952316284. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelHoeDamage was corrected from null to its default, -3.0. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelHoeAtkSpeed was corrected from null to its default, 0.0. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelToolMaxUses was corrected from null to its default, 500. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelEfficiency was corrected from null to its default, 8.0. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelPaxelDamage was corrected from null to its default, 8.0. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelPaxelAtkSpeed was corrected from null to its default, -2.4000000953674316. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelPaxelEfficiency was corrected from null to its default, 8.0. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelPaxelEnchantability was corrected from null to its default, 16. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelPaxelMaxUses was corrected from null to its default, 1000. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelEnchantability was corrected from null to its default, 16. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelToughness was corrected from null to its default, 2.0. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelKnockbackResistance was corrected from null to its default, 0.0. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelBootDurability was corrected from null to its default, 260. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelLeggingDurability was corrected from null to its default, 300. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelChestplateDurability was corrected from null to its default, 320. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelHelmetDurability was corrected from null to its default, 220. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelBootArmor was corrected from null to its default, 3. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelLeggingArmor was corrected from null to its default, 6. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelChestplateArmor was corrected from null to its default, 8. 
+[17Nov2025 14:09:50.468] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools.steel.steelHelmetArmor was corrected from null to its default, 3. 
+[17Nov2025 14:09:50.562] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /home/nphne-oklvsvxa/mserver/config/Mekanism/generators.toml is not correct. Correcting
+[17Nov2025 14:09:50.563] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.563] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.energyPerFusionFuel was corrected from null to its default, 10000000. 
+[17Nov2025 14:09:50.563] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.solarGeneration was corrected from null to its default, 50. 
+[17Nov2025 14:09:50.563] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.advancedSolarGeneration was corrected from null to its default, 300. 
+[17Nov2025 14:09:50.563] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.bio_generator was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.564] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.bio_generator.bioGeneration was corrected from null to its default, 350. 
+[17Nov2025 14:09:50.564] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.bio_generator.tankCapacity was corrected from null to its default, 24000. 
+[17Nov2025 14:09:50.564] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.heat_generator was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.564] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.heat_generator.heatGeneration was corrected from null to its default, 200. 
+[17Nov2025 14:09:50.565] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.heat_generator.heatGenerationLava was corrected from null to its default, 30. 
+[17Nov2025 14:09:50.565] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.heat_generator.heatGenerationNether was corrected from null to its default, 100. 
+[17Nov2025 14:09:50.565] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.heat_generator.tankCapacity was corrected from null to its default, 24000. 
+[17Nov2025 14:09:50.565] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.heat_generator.heatGenerationFluidRate was corrected from null to its default, 10. 
+[17Nov2025 14:09:50.565] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.gas_generator was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.565] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.gas_generator.tankCapacity was corrected from null to its default, 18000. 
+[17Nov2025 14:09:50.565] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.gas_generator.ethyleneBurnTicks was corrected from null to its default, 40. 
+[17Nov2025 14:09:50.565] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.gas_generator.ethyleneDensityMultiplier was corrected from null to its default, 40. 
+[17Nov2025 14:09:50.565] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.turbine was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.565] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.turbine.turbineBladesPerCoil was corrected from null to its default, 4. 
+[17Nov2025 14:09:50.565] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.turbine.turbineVentGasFlow was corrected from null to its default, 32000.0. 
+[17Nov2025 14:09:50.565] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.turbine.turbineDisperserGasFlow was corrected from null to its default, 1280.0. 
+[17Nov2025 14:09:50.565] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.turbine.energyCapacityPerVolume was corrected from null to its default, 16000000. 
+[17Nov2025 14:09:50.565] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.turbine.gasPerTank was corrected from null to its default, 64000. 
+[17Nov2025 14:09:50.565] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.turbine.condenserRate was corrected from null to its default, 64000. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.wind_generator was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.wind_generator.windGenerationMin was corrected from null to its default, 60. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.wind_generator.generationMax was corrected from null to its default, 480. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.wind_generator.minY was corrected from null to its default, 24. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.wind_generator.maxY was corrected from null to its default, 2031. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.wind_generator.windGenerationDimBlacklist was corrected from null to its default, []. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.fusion_reactor was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.fusion_reactor.thermocoupleEfficiency was corrected from null to its default, 0.05. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.fusion_reactor.casingThermalConductivity was corrected from null to its default, 0.1. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.fusion_reactor.waterHeatingRatio was corrected from null to its default, 0.3. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.fusion_reactor.fuelCapacity was corrected from null to its default, 1000. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.fusion_reactor.energyCapacity was corrected from null to its default, 1000000000. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.fusion_reactor.waterPerInjection was corrected from null to its default, 1000000. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.fusion_reactor.steamPerInjection was corrected from null to its default, 100000000. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.hohlraum was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.hohlraum.maxGas was corrected from null to its default, 10. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.hohlraum.fillRate was corrected from null to its default, 1. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.fission_reactor was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.fission_reactor.energyPerFissionFuel was corrected from null to its default, 1000000. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.fission_reactor.casingHeatCapacity was corrected from null to its default, 1000.0. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.fission_reactor.surfaceAreaTarget was corrected from null to its default, 4.0. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.fission_reactor.meltdownsEnabled was corrected from null to its default, true. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.fission_reactor.meltdownRadius was corrected from null to its default, 8.0. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.fission_reactor.meltdownChance was corrected from null to its default, 0.001. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.fission_reactor.meltdownRadiationMultiplier was corrected from null to its default, 50.0. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.fission_reactor.postMeltdownDamage was corrected from null to its default, 75.0. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.fission_reactor.defaultBurnRate was corrected from null to its default, 0.1. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.fission_reactor.burnPerAssembly was corrected from null to its default, 1. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.fission_reactor.maxFuelPerAssembly was corrected from null to its default, 8000. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.fission_reactor.cooledCoolantPerTank was corrected from null to its default, 100000. 
+[17Nov2025 14:09:50.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators.fission_reactor.heatedCoolantPerTank was corrected from null to its default, 1000000. 
+[17Nov2025 14:09:50.581] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /home/nphne-oklvsvxa/mserver/config/Mekanism/generators-gear.toml is not correct. Correcting
+[17Nov2025 14:09:50.581] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators-gear was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.581] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators-gear.mekasuit was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.581] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators-gear.mekasuit.geothermalChargingRate was corrected from null to its default, 10.5000. 
+[17Nov2025 14:09:50.581] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators-gear.mekasuit.damage_absorption was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.581] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key generators-gear.mekasuit.damage_absorption.heatDamageReductionRatio was corrected from null to its default, 0.8. 
+[17Nov2025 14:09:50.590] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /home/nphne-oklvsvxa/mserver/config/Mekanism/generator-storage.toml is not correct. Correcting
+[17Nov2025 14:09:50.590] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key storage was corrected from null to its default, SimpleCommentedConfig:{}. 
+[17Nov2025 14:09:50.591] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key storage.heatGenerator was corrected from null to its default, 160000. 
+[17Nov2025 14:09:50.591] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key storage.bioGenerator was corrected from null to its default, 160000. 
+[17Nov2025 14:09:50.591] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key storage.solarGenerator was corrected from null to its default, 96000. 
+[17Nov2025 14:09:50.591] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key storage.advancedSolarGenerator was corrected from null to its default, 200000. 
+[17Nov2025 14:09:50.591] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key storage.windGenerator was corrected from null to its default, 200000. 
+[17Nov2025 14:09:50.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[17Nov2025 14:09:50.689] [Server thread/INFO] [Arclight/]: 注册了 0 个新的世界类型
+[17Nov2025 14:09:51.078] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[17Nov2025 14:09:51.079] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[17Nov2025 14:09:51.079] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[17Nov2025 14:09:51.080] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[17Nov2025 14:09:51.080] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17Nov2025 14:09:51.081] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[17Nov2025 14:09:51.081] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[17Nov2025 14:09:51.081] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[17Nov2025 14:09:51.081] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[17Nov2025 14:09:51.081] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[17Nov2025 14:09:51.081] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[17Nov2025 14:09:51.082] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[17Nov2025 14:09:51.082] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[17Nov2025 14:09:51.082] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[17Nov2025 14:09:51.082] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[17Nov2025 14:09:51.082] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[17Nov2025 14:09:51.082] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[17Nov2025 14:09:51.082] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[17Nov2025 14:09:51.082] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[17Nov2025 14:09:51.082] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[17Nov2025 14:09:51.082] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[17Nov2025 14:09:51.082] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[17Nov2025 14:09:51.082] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[17Nov2025 14:09:51.082] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[17Nov2025 14:09:51.083] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[17Nov2025 14:09:51.083] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[17Nov2025 14:09:51.084] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[17Nov2025 14:09:51.085] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[17Nov2025 14:09:51.087] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17Nov2025 14:09:51.087] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[17Nov2025 14:09:51.087] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[17Nov2025 14:09:51.087] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17Nov2025 14:09:51.088] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[17Nov2025 14:09:51.088] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[17Nov2025 14:09:51.088] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[17Nov2025 14:09:51.088] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[17Nov2025 14:09:54.870] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM-1] --------
+[17Nov2025 14:09:54.870] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[17Nov2025 14:09:54.870] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[17Nov2025 14:09:54.870] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[17Nov2025 14:09:54.870] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17Nov2025 14:09:54.870] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[17Nov2025 14:09:54.870] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[17Nov2025 14:09:54.870] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[17Nov2025 14:09:54.870] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[17Nov2025 14:09:54.870] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[17Nov2025 14:09:54.870] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[17Nov2025 14:09:54.870] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[17Nov2025 14:09:54.870] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[17Nov2025 14:09:54.870] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[17Nov2025 14:09:54.870] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[17Nov2025 14:09:54.870] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[17Nov2025 14:09:54.870] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[17Nov2025 14:09:54.870] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[17Nov2025 14:09:54.870] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[17Nov2025 14:09:54.870] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[17Nov2025 14:09:54.870] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[17Nov2025 14:09:54.870] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[17Nov2025 14:09:54.870] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[17Nov2025 14:09:54.870] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[17Nov2025 14:09:54.870] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[17Nov2025 14:09:54.870] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[17Nov2025 14:09:54.870] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[17Nov2025 14:09:54.871] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[17Nov2025 14:09:54.871] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17Nov2025 14:09:54.871] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[17Nov2025 14:09:54.871] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[17Nov2025 14:09:54.871] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17Nov2025 14:09:54.871] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[17Nov2025 14:09:54.871] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[17Nov2025 14:09:54.871] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[17Nov2025 14:09:54.871] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[17Nov2025 14:09:54.903] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world/DIM1] --------
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: Simulation Distance: 10
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[17Nov2025 14:09:54.904] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[17Nov2025 14:09:54.905] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[17Nov2025 14:09:54.905] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[17Nov2025 14:09:54.923] [Server thread/INFO] [Essentials/]: Enabling Essentials v2.20.1
+[17Nov2025 14:09:54.966] [Server thread/ERROR] [Essentials/]: You are running a server that does not properly support Bukkit plugins. Bukkit plugins should not be used with Forge/Fabric mods! For Forge: Consider using ForgeEssentials, or SpongeForge + Nucleus.
+[17Nov2025 14:09:54.967] [Server thread/INFO] [Essentials/]: Status determining class: net.minecraftforge.common.MinecraftForge
+[17Nov2025 14:09:55.302] [Server thread/INFO] [Essentials/]: Attempting to convert old kits in config.yml to new kits.yml
+[17Nov2025 14:09:55.302] [Server thread/INFO] [Essentials/]: No kits found to migrate.
+[17Nov2025 14:09:55.303] [Server thread/INFO] [Essentials/]: Starting Essentials ban format conversion
+[17Nov2025 14:09:55.303] [Server thread/INFO] [Essentials/]: Attempting to migrate ignore list to UUIDs
+[17Nov2025 14:09:55.303] [Server thread/INFO] [Essentials/]: Attempting to migrate legacy userdata keys to Configurate
+[17Nov2025 14:09:55.555] [Server thread/INFO] [Essentials/]: Loaded 39094 items from items.json.
+[17Nov2025 14:09:55.604] [Server thread/INFO] [Essentials/]: Using locale en
+[17Nov2025 14:09:55.681] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
+[17Nov2025 14:09:55.711] [Server thread/INFO] [Essentials/]: Starting Metrics. Opt-out using the global bStats config.
+[17Nov2025 14:09:55.716] [Server thread/INFO] [Essentials/]: Using superperms-based permissions.
+[17Nov2025 14:09:55.726] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[17Nov2025 14:09:55.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[17Nov2025 14:10:01.468] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Nov2025 14:10:01.472] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Nov2025 14:10:01.473] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Nov2025 14:10:01.473] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Nov2025 14:10:01.474] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Nov2025 14:10:01.474] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Nov2025 14:10:01.475] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Nov2025 14:10:01.475] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Nov2025 14:10:01.478] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Nov2025 14:10:01.479] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Nov2025 14:10:01.479] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Nov2025 14:10:01.480] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Nov2025 14:10:01.842] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[17Nov2025 14:10:02.342] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[17Nov2025 14:10:02.659] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6818 ms
+[17Nov2025 14:10:02.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.204s)! For help, type "help"
+[17Nov2025 14:10:02.687] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[17Nov2025 14:10:02.688] [Server thread/INFO] [Arclight/]: Forwarding forge permission[forge:default_handler] to bukkit
+[17Nov2025 14:10:02.717] [Craft Scheduler Thread - 0/INFO] [Essentials/]: Fetching version information...
+[17Nov2025 14:10:03.520] [Craft Scheduler Thread - 0/WARN] [Essentials/]: There is a new EssentialsX version available for download: 2.21.2.
+[17Nov2025 14:10:03.520] [Craft Scheduler Thread - 0/WARN] [Essentials/]: Download it here: https://essentialsx.net/downloads.html?branch=stable
+[17Nov2025 14:10:37.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Nov2025 14:10:37.553] [Server thread/INFO] [Essentials/]: Disabling Essentials v2.20.1
+[17Nov2025 14:10:37.557] [Server thread/INFO] [WorldEdit/]: Disabling WorldEdit v7.3.1+6763-2e55f4f
+[17Nov2025 14:10:37.564] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[17Nov2025 14:10:37.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Nov2025 14:10:37.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Nov2025 14:10:38.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Nov2025 14:10:44.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+[17Nov2025 14:10:44.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+[17Nov2025 14:10:49.753] [Exit Thread/INFO] [Arclight/]: 2 threads not shutting down correctly, force exiting
